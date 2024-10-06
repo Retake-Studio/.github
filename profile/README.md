@@ -5,6 +5,8 @@
 <div align="center">
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&layout=compact&theme=react&hide_border=true&show_icons=true"/>
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NikXpro&layout=compact&theme=react&hide_border=true&show_icons=true"/>
+        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=benjaminpeuple&layout=compact&theme=react&hide_border=true&show_icons=true"/>
+        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Caydos&layout=compact&theme=react&hide_border=true&show_icons=true"/>
 </div>
 
 ____
